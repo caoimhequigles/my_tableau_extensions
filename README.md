@@ -13,3 +13,5 @@ Twitter or Facebook
 5. Enter the following address: 127.0.0.1:5001/
 6. Two buttons will display, one for Facebook and the second for Twitter.
 7. Click on either to share on either of the Social Media Platforms.
+
+![] (TD.gif)
