@@ -4,7 +4,7 @@ This is a repository for an Executable which contains Python code allowing to au
 Twitter or Facebook
 
 
-# Setup Required in order to use the Facebook & Twitter Share Extension
+## Setup Required in order to use the Facebook & Twitter Share Extension
 
 1. Download the Server File
 2. Within this file, please double click on "server.exe". This will launch a Server hosted on 127.0.0.1:5001/
