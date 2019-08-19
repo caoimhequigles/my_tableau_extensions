@@ -3,6 +3,8 @@
 This is a repository for an Executable which contains Python code allowing to automatically capture a Dashboard Image and publish to either
 Twitter or Facebook
 
+![](server/facebook.jpg)   ![](server/twitter.jpg)
+
 
 ## Setup Required in order to use the Facebook & Twitter Share Extension
 
