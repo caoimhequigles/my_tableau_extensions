@@ -14,4 +14,4 @@ Twitter or Facebook
 6. Two buttons will display, one for Facebook and the second for Twitter.
 7. Click on either to share on either of the Social Media Platforms.
 
-![TD file] (TD.gif)
+![TD file] (server/TD.gif)
